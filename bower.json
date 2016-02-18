@@ -1,0 +1,22 @@
+{
+  "name": "cl.bancochile.lato-font",
+  "homepage": "https://github.com/bancodechile/cl.bancochile.lato-font",
+  "authors": [
+    "freddy-stark <luis.ramos@fusiona.cl>"
+  ],
+  "description": "fuente lato usada en apps",
+  "main": "lato-font.scss",
+  "moduleType": [],
+  "keywords": [
+    "font"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
